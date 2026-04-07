@@ -150,14 +150,11 @@ p {
 }
 .section-image {
   width: 100%;
-  max-width: 500px;
+  max-width: 600px;
   height: auto;
   margin: 20px auto;
   border-radius: 12px;
   display: block;
-}
-.hero-image {
-  width: 100%;
 }
 
 .section-image {
