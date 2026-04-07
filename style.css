@@ -149,7 +149,7 @@ p {
 }
 }
 ..section-image {
-  width: 100%;
+  width: 50%;
   max-width: 300px
   height: auto;
   margin: 20px auto;
