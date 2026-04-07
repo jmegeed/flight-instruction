@@ -148,9 +148,9 @@ p {
   box-shadow: 0 10px 25px rgba(0,0,0,0.2);
 }
 }
-..section-image {
-  width: 50%;
-  max-width: 300px
+.section-image {
+  width: 100%;
+  max-width: 300px;
   height: auto;
   margin: 20px auto;
   border-radius: 12px;
